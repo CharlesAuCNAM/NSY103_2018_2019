@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 #Script permettant la conversion de chiffres en chiffres romain
 convertir_vers_romain(){
     local nombre_a_convertir=$1
